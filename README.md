@@ -28,7 +28,7 @@ A Streamlit-powered application that uses **LangChain**, **FAISS**, and **Groq's
 ## 📁 Folder Structure
 
 ```
-
+Create documents and faiss_index folder 
 project-root/
 ├── documents/              # Place your PDFs here
 ├── faiss\_index/            # Saved vector DB (auto-generated)
