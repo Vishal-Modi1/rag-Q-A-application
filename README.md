@@ -39,7 +39,7 @@ project-root/
 ````
 ## 🔐 Environment Variables
 
-Create a `.env` file in the project root with the following keys and add actual values
+Update a `.env` file in the project root with the following keys and add actual values
 
 ```env
 LANGCHAIN_API_KEY=""
