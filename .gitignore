@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# FAISS vector store (auto-generated)
+faiss_index/
+
+#document files
+documents/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache (optional)
+.streamlit/
